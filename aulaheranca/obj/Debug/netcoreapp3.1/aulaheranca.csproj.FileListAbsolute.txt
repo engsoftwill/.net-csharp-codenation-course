@@ -1,0 +1,13 @@
+/home/engwill/csharp/aulaheranca/bin/Debug/netcoreapp3.1/aulaheranca
+/home/engwill/csharp/aulaheranca/bin/Debug/netcoreapp3.1/aulaheranca.deps.json
+/home/engwill/csharp/aulaheranca/bin/Debug/netcoreapp3.1/aulaheranca.runtimeconfig.json
+/home/engwill/csharp/aulaheranca/bin/Debug/netcoreapp3.1/aulaheranca.runtimeconfig.dev.json
+/home/engwill/csharp/aulaheranca/bin/Debug/netcoreapp3.1/aulaheranca.dll
+/home/engwill/csharp/aulaheranca/bin/Debug/netcoreapp3.1/aulaheranca.pdb
+/home/engwill/csharp/aulaheranca/obj/Debug/netcoreapp3.1/aulaheranca.csprojAssemblyReference.cache
+/home/engwill/csharp/aulaheranca/obj/Debug/netcoreapp3.1/aulaheranca.csproj.CoreCompileInputs.cache
+/home/engwill/csharp/aulaheranca/obj/Debug/netcoreapp3.1/aulaheranca.AssemblyInfoInputs.cache
+/home/engwill/csharp/aulaheranca/obj/Debug/netcoreapp3.1/aulaheranca.AssemblyInfo.cs
+/home/engwill/csharp/aulaheranca/obj/Debug/netcoreapp3.1/aulaheranca.dll
+/home/engwill/csharp/aulaheranca/obj/Debug/netcoreapp3.1/aulaheranca.pdb
+/home/engwill/csharp/aulaheranca/obj/Debug/netcoreapp3.1/aulaheranca.genruntimeconfig.cache
