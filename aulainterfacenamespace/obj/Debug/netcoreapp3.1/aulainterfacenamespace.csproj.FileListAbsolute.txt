@@ -1,0 +1,13 @@
+/home/engwill/csharp/aulainterfacenamespace/bin/Debug/netcoreapp3.1/aulainterfacenamespace
+/home/engwill/csharp/aulainterfacenamespace/bin/Debug/netcoreapp3.1/aulainterfacenamespace.deps.json
+/home/engwill/csharp/aulainterfacenamespace/bin/Debug/netcoreapp3.1/aulainterfacenamespace.runtimeconfig.json
+/home/engwill/csharp/aulainterfacenamespace/bin/Debug/netcoreapp3.1/aulainterfacenamespace.runtimeconfig.dev.json
+/home/engwill/csharp/aulainterfacenamespace/bin/Debug/netcoreapp3.1/aulainterfacenamespace.dll
+/home/engwill/csharp/aulainterfacenamespace/bin/Debug/netcoreapp3.1/aulainterfacenamespace.pdb
+/home/engwill/csharp/aulainterfacenamespace/obj/Debug/netcoreapp3.1/aulainterfacenamespace.csprojAssemblyReference.cache
+/home/engwill/csharp/aulainterfacenamespace/obj/Debug/netcoreapp3.1/aulainterfacenamespace.csproj.CoreCompileInputs.cache
+/home/engwill/csharp/aulainterfacenamespace/obj/Debug/netcoreapp3.1/aulainterfacenamespace.AssemblyInfoInputs.cache
+/home/engwill/csharp/aulainterfacenamespace/obj/Debug/netcoreapp3.1/aulainterfacenamespace.AssemblyInfo.cs
+/home/engwill/csharp/aulainterfacenamespace/obj/Debug/netcoreapp3.1/aulainterfacenamespace.dll
+/home/engwill/csharp/aulainterfacenamespace/obj/Debug/netcoreapp3.1/aulainterfacenamespace.pdb
+/home/engwill/csharp/aulainterfacenamespace/obj/Debug/netcoreapp3.1/aulainterfacenamespace.genruntimeconfig.cache
