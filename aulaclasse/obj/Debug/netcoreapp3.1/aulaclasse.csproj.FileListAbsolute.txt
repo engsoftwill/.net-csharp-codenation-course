@@ -1,0 +1,13 @@
+/home/engwill/csharp/aulaclasse/bin/Debug/netcoreapp3.1/aulaclasse
+/home/engwill/csharp/aulaclasse/bin/Debug/netcoreapp3.1/aulaclasse.deps.json
+/home/engwill/csharp/aulaclasse/bin/Debug/netcoreapp3.1/aulaclasse.runtimeconfig.json
+/home/engwill/csharp/aulaclasse/bin/Debug/netcoreapp3.1/aulaclasse.runtimeconfig.dev.json
+/home/engwill/csharp/aulaclasse/bin/Debug/netcoreapp3.1/aulaclasse.dll
+/home/engwill/csharp/aulaclasse/bin/Debug/netcoreapp3.1/aulaclasse.pdb
+/home/engwill/csharp/aulaclasse/obj/Debug/netcoreapp3.1/aulaclasse.csprojAssemblyReference.cache
+/home/engwill/csharp/aulaclasse/obj/Debug/netcoreapp3.1/aulaclasse.csproj.CoreCompileInputs.cache
+/home/engwill/csharp/aulaclasse/obj/Debug/netcoreapp3.1/aulaclasse.AssemblyInfoInputs.cache
+/home/engwill/csharp/aulaclasse/obj/Debug/netcoreapp3.1/aulaclasse.AssemblyInfo.cs
+/home/engwill/csharp/aulaclasse/obj/Debug/netcoreapp3.1/aulaclasse.dll
+/home/engwill/csharp/aulaclasse/obj/Debug/netcoreapp3.1/aulaclasse.pdb
+/home/engwill/csharp/aulaclasse/obj/Debug/netcoreapp3.1/aulaclasse.genruntimeconfig.cache

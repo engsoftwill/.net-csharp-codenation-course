@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/engwill/csharp/aulaclasse/aulaclasse.csproj": {}
+  },
+  "projects": {
+    "/home/engwill/csharp/aulaclasse/aulaclasse.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/engwill/csharp/aulaclasse/aulaclasse.csproj",
+        "projectName": "aulaclasse",
+        "projectPath": "/home/engwill/csharp/aulaclasse/aulaclasse.csproj",
+        "packagesPath": "/home/engwill/.nuget/packages/",
+        "outputPath": "/home/engwill/csharp/aulaclasse/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/engwill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
