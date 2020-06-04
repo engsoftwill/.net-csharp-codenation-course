@@ -1,0 +1,13 @@
+/home/engwill/csharp/aulaGenerics/bin/Debug/netcoreapp3.1/aulaGenerics
+/home/engwill/csharp/aulaGenerics/bin/Debug/netcoreapp3.1/aulaGenerics.deps.json
+/home/engwill/csharp/aulaGenerics/bin/Debug/netcoreapp3.1/aulaGenerics.runtimeconfig.json
+/home/engwill/csharp/aulaGenerics/bin/Debug/netcoreapp3.1/aulaGenerics.runtimeconfig.dev.json
+/home/engwill/csharp/aulaGenerics/bin/Debug/netcoreapp3.1/aulaGenerics.dll
+/home/engwill/csharp/aulaGenerics/bin/Debug/netcoreapp3.1/aulaGenerics.pdb
+/home/engwill/csharp/aulaGenerics/obj/Debug/netcoreapp3.1/aulaGenerics.csprojAssemblyReference.cache
+/home/engwill/csharp/aulaGenerics/obj/Debug/netcoreapp3.1/aulaGenerics.csproj.CoreCompileInputs.cache
+/home/engwill/csharp/aulaGenerics/obj/Debug/netcoreapp3.1/aulaGenerics.AssemblyInfoInputs.cache
+/home/engwill/csharp/aulaGenerics/obj/Debug/netcoreapp3.1/aulaGenerics.AssemblyInfo.cs
+/home/engwill/csharp/aulaGenerics/obj/Debug/netcoreapp3.1/aulaGenerics.dll
+/home/engwill/csharp/aulaGenerics/obj/Debug/netcoreapp3.1/aulaGenerics.pdb
+/home/engwill/csharp/aulaGenerics/obj/Debug/netcoreapp3.1/aulaGenerics.genruntimeconfig.cache
