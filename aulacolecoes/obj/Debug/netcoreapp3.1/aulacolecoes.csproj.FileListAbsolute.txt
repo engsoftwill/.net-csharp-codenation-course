@@ -1,0 +1,13 @@
+/home/engwill/csharp/aulacolecoes/bin/Debug/netcoreapp3.1/aulacolecoes
+/home/engwill/csharp/aulacolecoes/bin/Debug/netcoreapp3.1/aulacolecoes.deps.json
+/home/engwill/csharp/aulacolecoes/bin/Debug/netcoreapp3.1/aulacolecoes.runtimeconfig.json
+/home/engwill/csharp/aulacolecoes/bin/Debug/netcoreapp3.1/aulacolecoes.runtimeconfig.dev.json
+/home/engwill/csharp/aulacolecoes/bin/Debug/netcoreapp3.1/aulacolecoes.dll
+/home/engwill/csharp/aulacolecoes/bin/Debug/netcoreapp3.1/aulacolecoes.pdb
+/home/engwill/csharp/aulacolecoes/obj/Debug/netcoreapp3.1/aulacolecoes.csprojAssemblyReference.cache
+/home/engwill/csharp/aulacolecoes/obj/Debug/netcoreapp3.1/aulacolecoes.AssemblyInfoInputs.cache
+/home/engwill/csharp/aulacolecoes/obj/Debug/netcoreapp3.1/aulacolecoes.AssemblyInfo.cs
+/home/engwill/csharp/aulacolecoes/obj/Debug/netcoreapp3.1/aulacolecoes.csproj.CoreCompileInputs.cache
+/home/engwill/csharp/aulacolecoes/obj/Debug/netcoreapp3.1/aulacolecoes.dll
+/home/engwill/csharp/aulacolecoes/obj/Debug/netcoreapp3.1/aulacolecoes.pdb
+/home/engwill/csharp/aulacolecoes/obj/Debug/netcoreapp3.1/aulacolecoes.genruntimeconfig.cache
