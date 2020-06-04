@@ -1,0 +1,13 @@
+/home/engwill/csharp/linqlambda/bin/Debug/netcoreapp3.1/linqlambda
+/home/engwill/csharp/linqlambda/bin/Debug/netcoreapp3.1/linqlambda.deps.json
+/home/engwill/csharp/linqlambda/bin/Debug/netcoreapp3.1/linqlambda.runtimeconfig.json
+/home/engwill/csharp/linqlambda/bin/Debug/netcoreapp3.1/linqlambda.runtimeconfig.dev.json
+/home/engwill/csharp/linqlambda/bin/Debug/netcoreapp3.1/linqlambda.dll
+/home/engwill/csharp/linqlambda/bin/Debug/netcoreapp3.1/linqlambda.pdb
+/home/engwill/csharp/linqlambda/obj/Debug/netcoreapp3.1/linqlambda.csprojAssemblyReference.cache
+/home/engwill/csharp/linqlambda/obj/Debug/netcoreapp3.1/linqlambda.AssemblyInfoInputs.cache
+/home/engwill/csharp/linqlambda/obj/Debug/netcoreapp3.1/linqlambda.AssemblyInfo.cs
+/home/engwill/csharp/linqlambda/obj/Debug/netcoreapp3.1/linqlambda.csproj.CoreCompileInputs.cache
+/home/engwill/csharp/linqlambda/obj/Debug/netcoreapp3.1/linqlambda.dll
+/home/engwill/csharp/linqlambda/obj/Debug/netcoreapp3.1/linqlambda.pdb
+/home/engwill/csharp/linqlambda/obj/Debug/netcoreapp3.1/linqlambda.genruntimeconfig.cache
